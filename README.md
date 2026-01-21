@@ -15,6 +15,6 @@ A simple task list I created using HTML, CSS, and JavaScript that allows users t
 - JavaScript
 
 ## How to use
-1. Clone repository:
+1. Copy and paste to search bar:
    ```bash
-   git clone https://github.com/aarmijo127/my-to-do-list.git
+   https://aarmijo127.github.io/my-to-do-list

@@ -1,0 +1,52 @@
+.full_list {
+    background-color: rgba(240, 248, 255, 0.5);
+    border: 5px solid #f0f8ff;
+    width: 544px;
+    height: 315px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    padding-top: 5px;
+    border-radius: 12px;
+    max-height: 315px;
+    overflow-y: auto;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#task_list {
+    list-style: none;
+    padding-left: 0;
+}
+
+#task_list td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 500px;
+    text-align: left;
+}
+
+body {
+    background: 
+        linear-gradient(120deg, #bde0fe, #cdb4db, #ffafcc);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    min-height: 100vh;
+}
+
+table {
+  margin: 2rem auto;
+}
+
+#add_button {
+    background-color: rgba(100, 69, 80, 0);
+    border: 0px;
+    color: #ff639b;
+}
+
+.remove_button {
+    background-color: rgba(100, 69, 80, 0);
+    border: 0px;
+    color: #ff639b;
+}
